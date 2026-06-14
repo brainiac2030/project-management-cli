@@ -17,11 +17,11 @@ A Python based CommandLine Interface application for managing users, projects, a
 - **Complete Task**: `python main.py complete-task --project "CLI Tool" --task "Implement add-task"`
 
 ## Architecture
-- **`models/`**: OOP classes (`Person` → `User`, `Project`, `Task`) with encapsulation (`@property`) and serialization (`to_dict`/`from_dict`).
+- **`models/`**: OOP classes with encapsulation and serialization.
 - **`utils/`**: `DataManager` handles robust JSON I/O with `try-except` error handling.
 - **`main.py`**: Modular `argparse` CLI routing with `rich` for formatted terminal output.
 
 ##  Testing
-Run the test suite using pytest:
+Run the test suite using pytest
 ```bash
 pytest tests/ -v
