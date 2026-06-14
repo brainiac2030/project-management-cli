@@ -3,7 +3,7 @@
 A Python based CommandLine Interface application for managing users, projects, and tasks with local JSON persistence.
 
 ## Setup Instructions
-1. Clone the repository: `git clone <your-repo-url>`
+1. Clone the repository:
 2. Navigate to the directory: `cd project_manager`
 3. Install dependencies: `pip install -r requirements.txt`
 
