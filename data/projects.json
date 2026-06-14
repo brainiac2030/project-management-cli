@@ -1,0 +1,16 @@
+[
+    {
+        "project_id": "343e2480-e9c5-4a19-9ecf-ee948069ebf7",
+        "title": "middle earth",
+        "description": "explore middle earth as tolkien intended",
+        "due_date": "TBD",
+        "user_id": "45fee4aa-4c53-4e39-9547-7394888cdd88"
+    },
+    {
+        "project_id": "25438b3f-75ea-46b7-a826-f19a069ed8b9",
+        "title": "python",
+        "description": "build a project management system",
+        "due_date": "2026-11-31",
+        "user_id": "34a5fcc6-88af-45aa-acba-c2df6e0cbb10"
+    }
+]
